@@ -7,4 +7,4 @@
 cmd 를 키고<br>
 pip install discord<br>
 pip install selenium<br>
-을 입력하
+을 입력하세요
