@@ -28,4 +28,4 @@ async def on_message(message):
             await message.channel.send("잘못된 정보를 입력하거나 알 수 없는 오류가 발생함!")
 
 
-client.run('ODIzODYzNjgxMzk3Njg2MzEz.YFnA2A.cpAnCH-xL3XxRQW41FK51xczRc4')
+client.run('여기에 토큰 넣기')
