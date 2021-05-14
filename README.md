@@ -4,7 +4,7 @@
 
 프로그램이 실행이 안되면
 
-cmd 를 키고
-pip install discord
-pip install selenium
-을 
+cmd 를 키고<br>
+pip install discord<br>
+pip install selenium<br>
+을 입력하
